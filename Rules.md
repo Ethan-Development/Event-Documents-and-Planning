@@ -1,5 +1,6 @@
 # Star Hack 2024 - Summer Edition - Rules and Guidelines
-Please note that Star Hacks 2024 Summer Edition will be refered to as SH24-S
+Please note that Star Hacks 2024 Summer Edition will be refered to as SH24-S...
+> Amendments to this document will be highlighted on the Discord Server.
 ## Rules
 - A team may consist of at least one but no more than four participants. Please note that all prizes are awarded per project, and will be up to each team to distribute between themselves.
 
