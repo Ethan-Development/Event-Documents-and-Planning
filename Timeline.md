@@ -55,4 +55,7 @@ Keep on working!
 | 8:01pm | Late Submissions Open | 
 | 10:00pm | Late Submissions Close |
 
+Total Runtime: 144 Hours
+Total Runtime + Late: 146 Hours
+
 ## Judging will take 1~2 weeks depending on the volume of submissions. We will notify everyone on discord the date of the result stream.
